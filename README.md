@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 👋 I'm @olahiuj
-- 🔭 Recently working on building interpreters and type checkers
-- 🌱 Currently learning Haskell and Type Systems
+- 👋 I'm @jjppp
+- 🔭 Recently working on making static analyzers more robust and efficient
 - 💬 Ask me about ...
 - 📫 How to reach me: jpwang@smail.nju.edu.cn
